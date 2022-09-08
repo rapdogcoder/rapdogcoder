@@ -1,6 +1,8 @@
 # Yunsik Jang 
 ## The Greatest developer in the world
 
+![My Photo](KakaoTalk_20220908_185410906_01.jpg)
+
 I'm Yunsik, Scheduled to graduate of SeoulTech.
 
 my major is Department of Creative Writing, also IT convergence software too
